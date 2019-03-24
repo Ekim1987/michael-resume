@@ -1,0 +1,95 @@
+{
+    "basics": {
+      "name": "Michael Boonekamp",
+      "label": "IT Technician",
+      "picture": "./profile.PNG",
+      "email": "micky.lives@gmail.com",
+      "phone": "0737793267",
+      "summary":"I work for Xprocure software as  Technician,Im currently learning to code with HyperionDev.Ive made a few apps by myself I love to code a have a huge passion for programming & technology,I am striving to be a programmer.I have been developing for about 3 years now.I have never worked as a developer but I wish to work as one in the near furture",
+      "location": {
+        "address": "202 Culmwood Gardens,Culm Road",
+        "suburb": "Plumstead",
+        "city": "Cape Town"
+       
+      },
+  "profiles":[{
+              "network":"Github",
+              "username":"Ekim1987",
+              "url":"https://github.com/Ekim1987?tab=repositories"
+          },
+          {
+          "network":"Facebook",
+          "username":"mikal.boonekamp",
+          "url":"https://www.facebook.com/mikal.boonekamp"
+          }
+      ]
+      },
+  
+      "work":[{
+          "company":"Xprocure Software",
+          "position":"IT Technician",
+          "website":"https://www.xprocure.com/",
+          "startDate":"01 October 2013",
+          "endDate":"current"
+          
+  
+      },
+      {
+          "company":"BuyComputers",
+          "position":"IT Technician",
+          "website":"Company closed down",
+          "startDate":"30 September 2013 ",
+          "endDate":"01 July 2010"
+  
+      }
+    ],
+    "education":[{
+      "company":"HyperionDEV",
+      "course":"Full Stack developer",
+      "website":"https://www.hyperiondev.com/bootcamps/web_development/",
+      "details":"Learn the MERN Stack.MongDB,Express,React,Node.js",
+      "startDate":"09 Jan, 2019 ",
+      "endDate":"06 Jul, 2019"
+  },
+  {
+  "company":"Udemy",
+  "course":"Angular & Node.js",
+  "website":"https://www.udemy.com/angular-2-and-nodejs-the-practical-guide/",
+  "details":"Learn the MEAN Stack.MongDB,Express,Angular,Node.js,Android Mobile Dev,Java Programming Masterclass for Software Developers",
+  "startDate":"09 May, 2016 ",
+  "endDate":" 09 Nov, 2018 "
+  }
+
+  ],
+  
+  
+    "skills": [
+      {
+        "name": "Front End Development",
+        "level": "Junior",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript",
+           "Node",
+           "React",
+            "Android"
+         
+         
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "English"
+  
+      }
+    ],
+    "interests": [
+      {
+        "name": "Coding"
+     
+      }
+    ],
+    "references": []
+  }
